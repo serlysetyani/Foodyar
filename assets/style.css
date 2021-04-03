@@ -1,0 +1,126 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 100;
+    margin-right: 100;
+    margin-top: 50;
+}
+.logo{
+    width: 151px;
+    height: 35px;
+}
+.topnavigation{
+    float: right;
+}
+.topnavigation a.active{
+    color: #272042;
+    font-weight: 700;
+}
+.topnavigation a{
+    margin-left: 2rem;
+    text-decoration: none;
+    font-size: 18px;
+    color: #8B8BA5;
+}
+.jumbotron{
+    padding-top: 50px;
+    margin-left: 30;
+    display: flex;
+}
+.left-side{
+    margin-top: 50;
+    float: left;
+}
+.title{
+    font-size: 48px;
+    font-weight: 700;
+    color: #272042;
+}
+.desc{
+    margin-top: -30;
+    color: #8B8BA5;
+    margin-bottom: 40;
+}
+.btnDecide{
+    border-radius: 30px 30px 20px 20px;
+    padding: 15px 32px;
+    background-color: F7C531;
+    color: #272042;
+    font-weight: 700;
+    text-decoration: none;
+}
+.right-side{
+    float: right;
+    margin-left: 60;
+}
+.watchnow{
+    margin-top: 130;
+    text-align: center;
+}
+.txtWatchNow{
+    color: #8B8BA5;
+}
+.txtSpecialTry{
+    margin-top: -15;
+    font-size: 32px;
+    font-weight: bolder;
+    color: #272042;
+}
+.navmid{
+    margin-top: -10;
+}
+.navmid a{
+    margin-right: 40;
+    text-decoration: none;
+    color: #272042;
+}
+.navmid a.active{
+    color: #F7C531;
+    font-weight: bold;
+}
+.menu{
+    margin-left: -25;
+    margin-top: 50;
+    float: left;
+    display: flex;
+}
+.imgMenu{
+    margin-right: 20;
+}
+.menuTitle{
+    font-size: 22;
+    font-weight: 700;
+    color: #272042;
+}
+.author{
+    font-size: 16;
+    color: #8B8BA5;
+    margin-top: -20;
+}
+.testimonial {
+    margin-top: 600;
+}
+.testimonial p.testi{
+    font-size: 36;
+    color: #272042;
+}
+.profil{
+    display: flex;
+    float: left;
+}
+.name{
+    font-size: 22;
+    font-weight: 700;
+    margin-top: 5;
+}
+.total{
+    margin-top: 50;
+    display:inline-flex;
+    align-items: center;
+}
+.totalNumber{
+    font-size: 32;
+    font-weight: 700;
+    color: #272042;
+    margin-bottom: -10;
+    margin-right: 40;
+}
